@@ -1,6 +1,8 @@
 # Clonando a interface da instituição Uniron
 
-![alt](/public/preview/Review.png)
+![alt](/public/preview/Old.png)
+# Comparação do antigo pro novo
+![alt](/public/preview/New.png)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
