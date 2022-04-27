@@ -1,11 +1,11 @@
 import { Container } from "./styles"
 
-export const Menu = () => {
+export const Cards = () => {
   return(
     <Container>
-      <p>teste</p>
+      <h1>Cards</h1>
     </Container>
   )
 }
 
-export default Menu
+export default Cards

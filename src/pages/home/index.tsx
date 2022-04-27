@@ -1,14 +1,15 @@
-import { Header } from "../components/Header"
-import Menu from "../components/Menu"
+import Cards from "../components/Cards"
+import Header from "../components/Header"
+import { Sidebar } from "../components/Sidebar"
 import { Container, Content } from "./styles"
 
 export const Home = () => {
   return(
     <Container>
-      <Header />
+      <Sidebar />
       <Content>
-        <Menu />
-        <span>asdas</span>
+        <Header />
+        <Cards />
       </Content>
     </Container>
   )
