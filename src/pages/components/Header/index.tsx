@@ -1,9 +1,13 @@
 import { Container } from "./styles"
+import { AiOutlineUser } from 'react-icons/ai'
 
 export const Header = () => {
   return(
     <Container>
-      <p>Paulo Ricardo Rodrigues Claro</p>
+      <p>
+        <AiOutlineUser />
+        Paulo Ricardo Rodrigues Claro
+      </p>
       <select name="curso" id="curso">
         <option value="sdf">Sistemas de Informação</option>
         <option value="sdf">Redes de Computadores</option>

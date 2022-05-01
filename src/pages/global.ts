@@ -13,5 +13,15 @@
     },
     'button': {
       cursor: 'pointer'
-    }
+    },
+    '::-webkit-scrollbar': {
+      width: '5px'
+    },
+    '::-webkit-scrollbar-track': {
+      backgroundColor: '#FFF'
+    },
+    '::-webkit-scrollbar-thumb': {
+      backgroundColor: '#3338',
+      borderRadius: '5px',
+    },
   })

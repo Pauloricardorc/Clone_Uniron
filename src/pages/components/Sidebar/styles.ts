@@ -9,6 +9,7 @@ export const Container = styled('div', {
   fontFamily: 'Roboto, Arial, sans-serif',  
   backgroundColor: '#F8F8F8',
   color: '#333',
+  overflow: 'auto',
 
   '.side-navigation-panel': {
     marginTop: '50px',
