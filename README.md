@@ -6,7 +6,7 @@
 
 ![alt](/public/preview/Old-Home.png)
 # Pagina Home da Instituição Uniron
-![alt](/public/preview/Home.png)
+![alt](/public/preview/New-Home.png)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
