@@ -1,5 +1,6 @@
 import { Container } from "./styles"
 import { AiOutlineUser } from 'react-icons/ai'
+import Link from "next/link"
 
 export const Header = () => {
   return(
@@ -13,7 +14,11 @@ export const Header = () => {
         <option value="sdf">Redes de Computadores</option>
       </select>
       <span></span>
-      <button>Sair</button>
+      <Link href="/">
+        <button>
+          Sair
+        </button>
+      </Link>
     </Container>
   )
 }
